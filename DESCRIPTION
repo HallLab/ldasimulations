@@ -1,0 +1,19 @@
+Package: ldasimulations
+Title: Simulate Longitudinal Data and Apply Various Statistical Methods
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kristin", "Passero",  "kxp642@psu.edu", role = c("aut", "cre"))
+Description: Functions used to simulate longitudinal data and apply various longitudinal data analysis methods for a comparison of power, false positive rate, and estimation.
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports:
+    geepack (>=1.3.3),
+    lmerTest (>=3.1),
+    lme4 (>= 1.1),
+    lmtest (>=0.9),
+    sandwich (>=3.0),
+    MASS (>=7.3),
+
+
