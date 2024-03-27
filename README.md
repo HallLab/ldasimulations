@@ -1,4 +1,4 @@
-# LDASimulations
+# LDA Simulations
 
 ## About the Project
 In a simulation study, we generated repeated measures data with various parameters (e.g., sample size, between- and within-individual level variance, true effect size, predictor distribution, etc.). We applied multiple methods to the simulated data, to compare their performance with regards to power, false positive rate, and estimate accuracy.
