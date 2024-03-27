@@ -12,4 +12,4 @@ The complete results of the simulations are available for viewing and download a
 
 
 ## Contact
-For more information, please contact us through GitHub platform.
+For more information, please contact by Kristin.Passero@vcuhealth.org or through GitHub Platform.
