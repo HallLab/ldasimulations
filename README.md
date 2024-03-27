@@ -12,4 +12,4 @@ The complete results of the simulations are available for viewing and download a
 
 
 ## Contact
-For more information, please contact us through [insert preferred contact method, such as email or communication platform].
+For more information, please contact us through GitHub platform.
